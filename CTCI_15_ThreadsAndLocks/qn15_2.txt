@@ -1,0 +1,12 @@
+How to measure time spent in context switch?
+
+- what is context switch?
+    - when CPU is working on a task, then suspend and swith to the other task, then switching back
+    - what "time interval" we want to measure? 
+        only switching to then back?
+    - register switch, stack pointer, and program counter
+        - but no address space switching <-what's this?
+- when to switch?
+    - for example, interrupt handling
+
+

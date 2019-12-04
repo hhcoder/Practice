@@ -1,0 +1,7 @@
+Stack and Queue Interface:
+
+Push
+Pop
+IsEmpty <-Notice, no IsFull since during iv, capacity is not a problem
+Peek <-this is tricky, to solve problems 
+
